@@ -1,0 +1,10 @@
+.cabeçalho {
+    background-color:chocolate;
+    color: white;
+    display: flex
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+}
